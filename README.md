@@ -178,7 +178,7 @@
 
 ## Strings
 
-  - Single quotes `''` are preferred over double quotes `""` for strings, but both are accepted.
+  - Single quotes `''` are preferred over double quotes `""`.
 
     ```javascript
     // bad
